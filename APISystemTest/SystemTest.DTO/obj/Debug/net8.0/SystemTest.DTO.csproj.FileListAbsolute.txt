@@ -1,0 +1,12 @@
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\bin\Debug\net8.0\SystemTest.DTO.deps.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\bin\Debug\net8.0\SystemTest.DTO.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\bin\Debug\net8.0\SystemTest.DTO.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\obj\Debug\net8.0\SystemTest.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\obj\Debug\net8.0\SystemTest.DTO.AssemblyInfoInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\obj\Debug\net8.0\SystemTest.DTO.AssemblyInfo.cs
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\obj\Debug\net8.0\SystemTest.DTO.csproj.CoreCompileInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\obj\Debug\net8.0\SystemTest.DTO.sourcelink.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\obj\Debug\net8.0\SystemTest.DTO.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\obj\Debug\net8.0\refint\SystemTest.DTO.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\obj\Debug\net8.0\SystemTest.DTO.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DTO\obj\Debug\net8.0\ref\SystemTest.DTO.dll

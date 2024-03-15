@@ -1,4 +1,4 @@
-@SystemTest.API_HostAddress = http://localhost:5113
+@SystemTest.API_HostAddress = http://localhost:5250
 
 GET {{SystemTest.API_HostAddress}}/weatherforecast/
 Accept: application/json

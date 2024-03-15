@@ -1,0 +1,12 @@
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\bin\Debug\net8.0\SystemTest.BAL.deps.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\bin\Debug\net8.0\SystemTest.BAL.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\bin\Debug\net8.0\SystemTest.BAL.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\obj\Debug\net8.0\SystemTest.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\obj\Debug\net8.0\SystemTest.BAL.AssemblyInfoInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\obj\Debug\net8.0\SystemTest.BAL.AssemblyInfo.cs
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\obj\Debug\net8.0\SystemTest.BAL.csproj.CoreCompileInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\obj\Debug\net8.0\SystemTest.BAL.sourcelink.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\obj\Debug\net8.0\SystemTest.BAL.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\obj\Debug\net8.0\refint\SystemTest.BAL.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\obj\Debug\net8.0\SystemTest.BAL.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.BAL\obj\Debug\net8.0\ref\SystemTest.BAL.dll

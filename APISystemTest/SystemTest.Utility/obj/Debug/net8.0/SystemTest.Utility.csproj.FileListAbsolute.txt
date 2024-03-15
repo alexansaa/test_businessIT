@@ -1,0 +1,12 @@
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\bin\Debug\net8.0\SystemTest.Utility.deps.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\bin\Debug\net8.0\SystemTest.Utility.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\bin\Debug\net8.0\SystemTest.Utility.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTest.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTest.Utility.AssemblyInfoInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTest.Utility.AssemblyInfo.cs
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTest.Utility.csproj.CoreCompileInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTest.Utility.sourcelink.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTest.Utility.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\refint\SystemTest.Utility.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTest.Utility.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\ref\SystemTest.Utility.dll

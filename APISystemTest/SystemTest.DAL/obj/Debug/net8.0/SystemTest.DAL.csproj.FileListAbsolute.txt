@@ -1,0 +1,12 @@
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\bin\Debug\net8.0\SystemTest.DAL.deps.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\bin\Debug\net8.0\SystemTest.DAL.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\bin\Debug\net8.0\SystemTest.DAL.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTest.DAL.AssemblyInfoInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTest.DAL.AssemblyInfo.cs
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTest.DAL.csproj.CoreCompileInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTest.DAL.sourcelink.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTest.DAL.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\refint\SystemTest.DAL.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTest.DAL.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\ref\SystemTest.DAL.dll
