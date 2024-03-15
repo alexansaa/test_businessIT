@@ -9,5 +9,6 @@ namespace SystemTest.DTO
     public class DashBoardDTO
     {
         public List<ClienteDTO> clientes { get; set; }
+        public List<ServicioDTO> servicios { get; set; }
     }
 }
