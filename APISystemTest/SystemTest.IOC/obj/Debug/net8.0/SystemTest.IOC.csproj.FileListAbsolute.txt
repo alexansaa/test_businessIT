@@ -10,3 +10,15 @@ D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\obj\Debug\net8
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\obj\Debug\net8.0\refint\SystemTest.IOC.dll
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\obj\Debug\net8.0\SystemTest.IOC.pdb
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\obj\Debug\net8.0\ref\SystemTest.IOC.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.BLL.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.DAL.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.DTO.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.Model.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.Utility.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.BLL.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.DAL.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.Utility.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.DTO.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\bin\Debug\net8.0\SystemTest.Model.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\obj\Debug\net8.0\SystemTest.IOC.csproj.AssemblyReference.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.IOC\obj\Debug\net8.0\SystemTe.01C1924C.Up2Date

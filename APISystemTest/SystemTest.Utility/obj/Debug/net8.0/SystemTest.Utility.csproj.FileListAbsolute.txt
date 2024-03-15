@@ -10,3 +10,9 @@ D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\refint\SystemTest.Utility.dll
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTest.Utility.pdb
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\ref\SystemTest.Utility.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\bin\Debug\net8.0\SystemTest.DTO.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\bin\Debug\net8.0\SystemTest.Model.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\bin\Debug\net8.0\SystemTest.DTO.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\bin\Debug\net8.0\SystemTest.Model.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTest.Utility.csproj.AssemblyReference.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Utility\obj\Debug\net8.0\SystemTe.7A72FDF1.Up2Date

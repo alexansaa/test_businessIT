@@ -10,3 +10,7 @@ D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\refint\SystemTest.DAL.dll
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTest.DAL.pdb
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\ref\SystemTest.DAL.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\bin\Debug\net8.0\SystemTest.Model.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\bin\Debug\net8.0\SystemTest.Model.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTest.DAL.csproj.AssemblyReference.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.DAL\obj\Debug\net8.0\SystemTe.041D5BDA.Up2Date
