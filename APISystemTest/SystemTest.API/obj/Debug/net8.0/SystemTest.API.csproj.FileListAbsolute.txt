@@ -81,3 +81,5 @@ D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.API\bin\Debug\net8
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.API\bin\Debug\net8.0\SystemTest.DAL.pdb
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.API\bin\Debug\net8.0\SystemTest.Model.pdb
 D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.API\bin\Debug\net8.0\SystemTest.Utility.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
