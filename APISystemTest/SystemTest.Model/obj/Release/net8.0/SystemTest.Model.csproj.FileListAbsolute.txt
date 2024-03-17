@@ -1,0 +1,15 @@
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\bin\Release\net8.0\SystemTest.Model.deps.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\bin\Release\net8.0\SystemTest.Model.runtimeconfig.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\bin\Release\net8.0\SystemTest.Model.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\bin\Release\net8.0\SystemTest.Model.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\SystemTest.Model.csproj.AssemblyReference.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\SystemTest.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\SystemTest.Model.AssemblyInfoInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\SystemTest.Model.AssemblyInfo.cs
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\SystemTest.Model.csproj.CoreCompileInputs.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\SystemTest.Model.sourcelink.json
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\SystemTest.Model.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\refint\SystemTest.Model.dll
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\SystemTest.Model.pdb
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\SystemTest.Model.genruntimeconfig.cache
+D:\Documents\Git Hub\test_businessIT\APISystemTest\SystemTest.Model\obj\Release\net8.0\ref\SystemTest.Model.dll
